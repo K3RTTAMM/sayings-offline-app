@@ -9,9 +9,7 @@
     Sayings.instance = this
 
     this.new = true
-
     this.sayingsList = []
-    this.isSubscribed = null
 
     this.init()
   }
